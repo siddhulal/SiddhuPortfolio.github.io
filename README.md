@@ -1,0 +1,1 @@
+It is a static web page developed using boot strap.please report if you find any bugs.
